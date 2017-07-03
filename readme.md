@@ -3,3 +3,7 @@ allows user to consolidate login details
 
 https://horoeka-2017-handbook.herokuapp.com/week1
 username: horoeka ..... password: academy
+--- hand book above
+
+git ~/.gitconfig
+shows local git config file
