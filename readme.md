@@ -7,3 +7,6 @@ username: horoeka ..... password: academy
 
 git ~/.gitconfig
 shows local git config file
+
+
+learn map, filter & reduce call back functions.
